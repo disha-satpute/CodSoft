@@ -21,7 +21,9 @@ public class game{
 
         while(!correct && attempts<5)
        {
-        //give input from user
+        //give input from user 
+        
+
         int guess = sc.nextInt();
 
         if(guess==random)
