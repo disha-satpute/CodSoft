@@ -26,6 +26,16 @@ CodSoft Java-Developer Internship
    displaying allstudents, and
    exiting the application.
 6. Implement input validation to ensure that required fields are not left empty and that the student data is in the correct format
+
+## ATM INTERFACE (Task 4)
+1. Create a class to represent the ATM machine.
+2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
+3. Implement methods for each option, such as withdraw(amount), deposit(amount), and checkBalance().
+4. Create a class to represent the user's bank account, which stores the account balance.
+5. Connect the ATM class with the user's bank account class to access and modify the account balance.
+6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
+7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions
+8. 
 ## Installation
 - Just, Clone this repository - 
 ````bash 
