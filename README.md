@@ -35,7 +35,7 @@ CodSoft Java-Developer Internship
 5. Connect the ATM class with the user's bank account class to access and modify the account balance.
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions
-8. 
+
 ## Installation
 - Just, Clone this repository - 
 ````bash 
