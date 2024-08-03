@@ -41,5 +41,5 @@ CodSoft Java-Developer Internship
 ````bash 
 git clone https://github.com/disha-satpute/CodSoft.git
 ````
-- Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
+- Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code.
 
