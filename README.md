@@ -1,4 +1,4 @@
-# CodSoft
+# 🎯CodSoft
 CodSoft Java-Developer Internship
 
 ## NUMBER GAME (Task 1)
